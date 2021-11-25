@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm PAVAN KALYAN</h1>
 <h3 align="center">Dedicated and Efficient Full-stack Web Developer with a passion to build and optimize user-focused websites. Self-motivated and task- driven professional with a knack to learn new technologies. Seeking opportunities to work with an organization that would provide me the opportunity to enhance my skills and knowledge and to grow along with the objectives of the organization. To upskill me and gain hands-on experience in the field of web development, I joined Masai School. I am currently learning Full-Stack Web Development at Masai School.I have worked on several projects at Masai school, each of them which was an amazing learning experience. In those projects, we have created websites using Express, HTML, CSS and Nodejs along with other npm packages. I am currently learning Reactjs. I am aspiring to become a full-stack web developer. Software engineering is a never-ending puzzle that I am enthralled with. I believe in the power of programming to transform and improve the lives of people around the world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankalyan477&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalyan477" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankalyan477&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalyan477" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavankalyan477" alt="pavankalyan477" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/pavankalyan477" target="blank"><img src="https://img.shields.io/twitter/follow/pavankalyan477?logo=twitter&style=for-the-badge" alt="pavankalyan477" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pavankalyan477" target="blank"><img src="https://img.shields.io/twitter/follow/pavankalyan477?logo=twitter&style=for-the-badge" alt="pavankalyan477" /></a> </p> -->
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
