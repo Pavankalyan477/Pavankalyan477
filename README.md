@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/pavankalyan477" target="blank"><img src="https://img.shields.io/twitter/follow/pavankalyan477?logo=twitter&style=for-the-badge" alt="pavankalyan477" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs, Redux**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://pavankalyan-portfolio.vercel.app/](https://pavankalyan-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sarakantipavankalyan070](https://medium.com/@sarakantipavankalyan070)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Java, ExpressJs, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, ExpressJs, MongoDB, React, Redux**
 
 - 📫 How to reach me **sarakantipavankalyan070@gmail.com**
 
@@ -23,9 +23,9 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-### Blogs posts
+<!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
