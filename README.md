@@ -18,10 +18,7 @@
 - 📝 I regularly write articles on [https://medium.com/@sarakantipavankalyan070](https://medium.com/@sarakantipavankalyan070)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, ExpressJs, MongoDB, React, Redux**
-
-- 📫 How to reach me **sarakantipavankalyan070@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1x5vlj7f4x-BEjwVDDBajTf8h1qBji07X?usp=sharing](https://drive.google.com/drive/folders/1x5vlj7f4x-BEjwVDDBajTf8h1qBji07X?usp=sharing)
+Resume](https://drive.google.com/drive/folders/1x5vlj7f4x-BEjwVDDBajTf8h1qBji07X?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
