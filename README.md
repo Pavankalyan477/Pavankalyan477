@@ -42,5 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavankalyan477&show_icons=true&locale=en" alt="pavankalyan477" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankalyan477&" alt="pavankalyan477" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavankalyan477&private=true" alt="pavankalyan477" /></p>
 
