@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 👨‍💻 All of my projects are available at [https://pavankalyan-portfolio.vercel.app/](https://pavankalyan-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://pavan-portfolio.vercel.app/](https://pavan-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sarakantipavankalyan070](https://medium.com/@sarakantipavankalyan070)
 
