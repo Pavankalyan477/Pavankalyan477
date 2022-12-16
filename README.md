@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/pavankalyan477" target="blank"><img src="https://img.shields.io/twitter/follow/pavankalyan477?logo=twitter&style=for-the-badge" alt="pavankalyan477" /></a> </p>
 
-- 🔭 I’m currently working on **Learning**
+- 🔭 I’m currently working on **AngularJs**
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://pavan-portfolio.vercel.app/](https://pavan-portfolio.vercel.app/)
 
