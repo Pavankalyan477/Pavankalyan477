@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AngularJs**
 
-- 🌱 I’m currently learning **Python**
+<!-- - 🌱 I’m currently learning **Python** -->
 
 - 👨‍💻 All of my projects are available at [https://pavan-portfolio.vercel.app/](https://pavan-portfolio.vercel.app/)
 
